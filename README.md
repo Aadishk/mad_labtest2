@@ -20,10 +20,16 @@
 *(Add screenshots of your app here)*
 
 ### 1. Emergency Contacts View
-![Emergency Contacts Screen](screenshots/emergency_view.png)
+![Emergency Contacts Screen](<img width="720" height="1600" alt="WhatsApp Image 2026-11-05 at 11 26 59 AM" src="https://github.com/user-attachments/assets/0ad2e075-6d41-4026-b2e6-9efcd69a19ee" />
+
+)
 
 ### 2. All Contacts Picker & Search View
-![Contacts Picker Screen](screenshots/contacts_view.png)
+![Contacts Picker Screen](<img width="720" height="1600" alt="WhatsApp Image 2026-11-05 at 11 26 59 AM (2)" src="https://github.com/user-attachments/assets/e89375f8-408d-4376-9553-45a49fc3c6d9" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-11-05 at 11 26 58 AM" src="https://github.com/user-attachments/assets/67be345b-af29-4912-ab5a-989b98de16b9" />
+
+)
+<img width="720" height="1600" alt="WhatsApp Image 2026-11-05 at 11 26 59 AM (1)" src="https://github.com/user-attachments/assets/8b916c86-0891-4fdf-8332-ddca623ee061" />
 
 ---
 
