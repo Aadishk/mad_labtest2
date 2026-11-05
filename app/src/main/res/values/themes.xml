@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme with dark iOS aesthetic. -->
+    <style name="Base.Theme.Labtest2" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="android:navigationBarColor">@color/black</item>
+        <item name="android:windowBackground">@color/black</item>
+        <item name="colorPrimary">@color/ios_blue</item>
+        <item name="colorSecondary">@color/ios_green</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnSurface">@color/ios_text_primary</item>
+    </style>
+
+    <style name="Theme.Labtest2" parent="Base.Theme.Labtest2" />
+</resources>
